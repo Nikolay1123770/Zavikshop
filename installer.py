@@ -10,15 +10,15 @@ def clearConsole():
 
 def create_config(token, main_admin_id, config_path="config.ini"):
     DEFAULT_CONFIG_TEXT = f"""[main_settings]
-token = {token}
-mainadminid = {main_admin_id}
+token = {7717037031:AAFk6odNTZa-Nybo0kmeVk8X_lzKX64zl_k}
+mainadminid = {6916747393}
 debug = 0
 
 [shop_settings]
-name = Название магазина
+name = ZAVIK SHOP
 greeting = Добро пожаловать!
 refundpolicy = Текст для вкладки "Политика возврата"
-contacts = Текст для вкладки "Контакты"
+contacts = Текст для вкладки "@OWNER_ZAVIK_CFG"
 enableimage = 1
 enablesticker = 0
 enablephonenumber = 0
